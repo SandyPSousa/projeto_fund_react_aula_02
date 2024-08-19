@@ -1,0 +1,17 @@
+.container_home {
+    background-color: rgb(255, 82, 82);
+    color: white;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container_home ul {
+    display: flex;
+    list-style: none;
+    gap: 28px;
+   
+}
+.container_home h1 {
+    font-size: 1.5rem;
+}
